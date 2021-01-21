@@ -4,7 +4,7 @@
 
 ## Project One : First ANN 
 
-<img src="https://github.com/udayrajsawhney/Udacity-Deep-Learning/blob/master/screenshots/2.png" width="600" height="250"/>
+<img src="https://github.com/FabricioGuimaraesOliveira/DeepLearning-/blob/master/screenshots/2.png" width="600" height="250"/>
 
 Your First Neural Network
 - Introduction
@@ -23,7 +23,7 @@ Welcome to the Convolutional Neural Networks (CNN) project! In this project, you
 ## Project Three : Simpsons Script Generator (RNN/LSTM) 
 
 
-<img src="https://github.com/udayrajsawhney/Udacity-Deep-Learning/blob/master/screenshots/1.png" width="600" height="250"/>
+<img src="https://github.com/FabricioGuimaraesOliveira/DeepLearning-/blob/master/screenshots/1.png" width="600" height="250"/>
 
 - Introduction
 In this project, you'll generate your own Simpsons TV scripts using RNNs. You'll be using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network you'll build will generate a new TV script for a scene at Moe's Tavern.
@@ -35,7 +35,7 @@ This way you can stay up to date with any changes we make by pulling the changes
 ## Project Four : Face Generation (CelebA Dataset) [Generative Adverserial Networks] 
 
 
-<img src="https://github.com/udayrajsawhney/Udacity-Deep-Learning/blob/master/screenshots/3.png" width="600" height="250"/>
+<img src="https://github.com/FabricioGuimaraesOliveira/DeepLearning-/blob/master/screenshots/3.png" width="600" height="250"/>
 
 - Introduction
 In this project, you'll use generative adversarial networks to generate new images of faces.
